@@ -1,8 +1,9 @@
 ---
 title: "Reporducible Research:Peer Assessment 1"
-output: 
+output:
   html_document:
-    keep_md: true
+    keep_md: yes
+  pdf_document: default
 ---
 ## Loading and preprocessing the data
 
